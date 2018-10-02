@@ -1,5 +1,6 @@
-﻿
-using System;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace ProjetoModeloDDD.Domain.Entities
 {
@@ -11,6 +12,8 @@ namespace ProjetoModeloDDD.Domain.Entities
         public string Email { get; set; }
         public DateTime DataCadastro { get; set; }
         public bool Ativo { get; set; }
+        public IEnumerable<Produto> produtos { get; set; }
+        
 
         public bool ClienteEspecial(Cliente cliente)
         {

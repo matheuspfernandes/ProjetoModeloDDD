@@ -51,3 +51,7 @@ c:\users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\Pr
 c:\users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 c:\users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 c:\users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\mathe\documents\visual studio 2015\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
