@@ -9,7 +9,7 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationsEnabled = true; 
         }
 
         protected override void Seed(Contexto.ProjetoModeloContext context)
